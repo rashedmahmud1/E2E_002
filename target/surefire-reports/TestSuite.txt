@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 45.667 s <<< FAILURE! - in TestSuite
+E2E_002.Navigationbar.basepageNavigation  Time elapsed: 10.277 s  <<< FAILURE!
+java.lang.AssertionError: expected [FEATURED COURSES123] but found [FEATURED COURSES]
+	at E2E_002.Navigationbar.basepageNavigation(Navigationbar.java:17)
+
